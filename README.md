@@ -1,3 +1,6 @@
+Repositório de Estudo - Aplicando Design Patterns na prática com C#
+Especialista: Victor Fructuoso
+
 # DesignPatternSamples
 |Branch|Build|
 |-:|-|
